@@ -1,0 +1,1 @@
+Config is in lua/autorun/lx_whitelist_config.lua
